@@ -82,3 +82,5 @@ All screens contain buttons to go back and in case of not having internet, the s
 This application should and can improve, but for reasons of time and since it was a first version, it was understood that with the functionalities achieved, the product met the necessary requirements to be released to the public. Any recommendation will always be well received.
 
 The app was specialy tested  on android and poorly tested on ios so any ios users feedback would come greate.
+
+Test
