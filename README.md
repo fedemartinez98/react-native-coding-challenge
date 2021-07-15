@@ -83,4 +83,4 @@ This application should and can improve, but for reasons of time and since it wa
 
 The app was specialy tested  on android and poorly tested on ios so any ios users feedback would come greate.
 
-Test
+This is a test in the new branch
